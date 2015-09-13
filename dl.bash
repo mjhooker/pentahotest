@@ -7,3 +7,6 @@ apt-get dist-upgrade
 
 apt-get install joe aptitude
 apt-get install default-jdk
+
+apt-get install gnome-session-flashback
+apt-get remove ubuntu-session
